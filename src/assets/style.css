@@ -30,7 +30,7 @@ a {
 body {
   min-width: 320px;
   background-color: var(--black);
-  background-image: url('background.jpg');
+  background-image: url('background.webp');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -100,18 +100,18 @@ body {
 
 @media (max-width: 1000px) {
   body {
-    background-image: url('background-1000.jpg');
+    background-image: url('background-1000.webp');
   }
 }
 
 @media (max-width: 768px) {
   body {
-    background-image: url('background-768.jpg');
+    background-image: url('background-768.webp');
   }
 }
 
 @media (max-width: 425px) {
   body {
-    background-image: url('background-425.jpg');
+    background-image: url('background-425.webp');
   }
 }
